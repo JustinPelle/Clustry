@@ -9,7 +9,7 @@ This code is a simple model implementing k-means clustering in 2D in C#. I had w
 *Visual demonstration of the clustering output*
 
 ## Dependencies
-This code has no dependencies, except that it uses python’s matplotlib to visualize the clustering.
+This code has no dependencies, except that it uses python’s matplotlib to visualize the clustering output.
 
 ## Execution
 To test out the model, execute the .bat file ‘run.bat’. The model will run on some demo data and visualize the clustering through creating ‘clus_vis.png’.
